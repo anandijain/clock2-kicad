@@ -1,3 +1,4 @@
 clock2-backups/
 production/
 *.lck
+\#auto_saved_files#
